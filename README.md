@@ -7,8 +7,8 @@
 
 ### Home Page
 ![Home Page](public/home.png)
-!(public/home2.png)
-!(public/home3.png)
+![](public/home2.png)
+![](public/home3.png)
 
 ## Installation
 
