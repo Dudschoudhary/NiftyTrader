@@ -1,0 +1,165 @@
+@font-face {
+  font-family: "Poppins";
+  src: url("../fonts/Poppins/Poppins-Bold.ttf") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Open_Sans_Bold";
+  src: url("../fonts/Open_Sans/OpenSans-Bold.ttf") format("woff2");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Open_Sans_Regular";
+  src: url("../fonts/Open_Sans/OpenSans-Regular.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Open_Sans_Medium";
+  src: url("../fonts/Open_Sans/OpenSans-Medium.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+@font-face {
+  font-family: "Epilogue_Bold";
+  src: url("../fonts/Epilogue/Epilogue-Bold.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+.dynamic_filter .title {
+  font-family: "Poppins";
+  color: black;
+  font-weight: 700;
+  font-size: 30px;
+}
+.w-97 {
+  width: 97% !important;
+}
+.w-fit-content {
+  width: fit-content;
+}
+.btn_off {
+  border-color: rgba(84, 78, 78, 0.3) !important;
+}
+.acordion-fql {
+  font-size: 18px;
+  line-height: 27px;
+  color: #333333;
+}
+.pricing_plans tr th {
+  font-family: "Poppins";
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.pricing_plans tr td {
+  font-family: "Poppins";
+  font-size: 15px;
+  font-weight: 500;
+  line-height: 26px;
+}
+.accordion_header {
+  font-family: Poppins;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 27px;
+  text-align: left;
+  color: #333333;
+}
+.accordion-button {
+  font-family: 'Poppins';
+  font-size: 14px;
+  color: #333333;
+  font-weight: 500;
+}
+.accordion-button:not(.collapsed){
+    color:#333333;
+    background-color:#fff;
+    box-shadow: none;
+  font-weight: 500;
+
+}
+.accordion-button:focus{
+    box-shadow: none;
+}
+.complare_plan{
+    align-items: baseline;
+}
+.plan_heading{
+    font-family: Poppins;
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 60px; 
+}
+.pricing_plan .title,.faq_section .title{ 
+
+    font-family: 'Poppins';
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 69px;
+    text-align: center;
+
+  }
+.py-6{
+    padding: 50px 0px;
+}
+.btn.btn-primary{
+    background-color: #4399EB !important;
+}
+.footer ul li{
+    padding: 15px 10px;
+}
+.feature_section h3{
+    font-family: 'Open_Sans_Bold'; 
+    font-size: 30px;
+    font-weight: 700;
+    line-height: 62.64px;
+    letter-spacing: -0.05em;
+    text-align: center;
+}
+.feature_section p{
+    font-family: 'Epilogue_Bold'; 
+    letter-spacing: -0.05em;
+    text-align: center;
+}
+.feature_section button{
+    font-family: Poppins;
+    font-size: 13px;
+    font-weight: 500;
+    line-height: 30px;
+    text-align: center;
+
+}
+.home-banner h1{
+    font-family: 'Open_Sans_Bold';
+    font-size: 60px;
+    font-weight: 700;
+    line-height: 81.71px;
+    letter-spacing: -0.05em;
+    text-align: center;
+}
+.home-banner p{
+    font-family: 'Epilogue_Bold';
+    font-size: 24px;
+    font-weight: 400;
+    line-height: 24.6px; 
+}
+.feature_blog .title{
+    font-family: 'Poppins';
+    font-size: 19px !important;
+    font-weight: 600 !important;
+    line-height: 36px;
+    text-align: left;
+
+}
+.feature_blog .desc{
+    font-family: 'Poppins';
+    font-size: 13px;
+    font-weight: 300;
+    line-height: 24px;
+
+}
