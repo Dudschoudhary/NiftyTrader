@@ -20,4 +20,6 @@ Follow these steps to set up the project -
 git clone https://github.com/Dudschoudhary/NiftyTrader.git
 cd NiftyTrader
 npm install
+
+Brach - Master
 ```
